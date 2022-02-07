@@ -1,4 +1,4 @@
-# Hola-Mundo Rama
+# Hola-Mundo
 Mi primer repositorio.
 Autor: Akatzin Baldovinos Hdz.
 Fecha: 6 de Febrero.
